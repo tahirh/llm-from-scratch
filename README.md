@@ -14,6 +14,7 @@ English the first time it's needed.
 | 03 | `03_data_sampling.ipynb` | Sliding-window input/target pairs, PyTorch `Dataset`/`DataLoader` |
 | 04 | `04_embeddings.ipynb` | Token embeddings and positional embeddings |
 | 05 | `05_self_attention.ipynb` | Self-attention: from simplified to trainable (Q/K/V) |
+| 05a | `05a_simplified_attention.ipynb` | *Optional deep dive:* the non-trainable mechanism step by step — dot products, softmax, context vectors |
 | 06 | `06_multihead_causal_attention.ipynb` | Causal masking, dropout, multi-head attention |
 | 07 | `07_transformer_block.ipynb` | Layer norm, feed-forward networks, residual connections |
 | 08 | `08_gpt_model.ipynb` | Assembling the full GPT model |
